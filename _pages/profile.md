@@ -19,10 +19,10 @@ redirect_from:
   Tsinghua University, Beijing, CN    
 <br>
 
+<hr style="border: 0; height: 2px; background-color: black; width: 100%;">
 ---
-***
-___
 ## Research and professional experience
+---
 * <b>Postdoctoral Fellow</b>, 2024/05-present  
   <i>Northwestern University</i>   
   Research topics: Carbon geological sequestration  
