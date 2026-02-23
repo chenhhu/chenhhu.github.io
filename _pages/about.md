@@ -17,3 +17,9 @@ I work on computational geomechanics focused on the coupled hydro-chemo-mechanic
 I will be joining the Department of Mechanics of Materials at Queen Mary University of London in the fall of 2026, collaborating with Professor Wei Tan. I am looking forward to collaborating with all professionals from both academia and industry.
 </p>  
 
+
+##Recent News
+[1] <b>Centrifuge Tests on a Soil Plug Removal Method for Suction Caisson During Installation</b>  
+<b>Zhao Y.</b>, Cheng F., Wang R.\*, Zhang J.M. Submitted to <i>Applied Ocean Research</i>, under review.
+
+
