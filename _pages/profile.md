@@ -19,7 +19,6 @@ redirect_from:
   Tsinghua University, Beijing, CN    
 <br>
 
-<hr style="border: 0; height: 2px; background-color: black; width: 100%;">
 ---
 ## Research and professional experience
 ---
