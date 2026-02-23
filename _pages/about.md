@@ -10,11 +10,11 @@ redirect_from:
 ---
 
 <p align="justify"> 
-I work on computational geomechanics focused on the coupled hydro-chemo-mechanical processes in subsurface porous rocks. I acquired my Ph.D. degree in the Department of Civil and Environmental Engineering at Stanford University in September 2021, under the supervision of Professor Ronaldo I. Borja. I was a Shuimu postdoctoral researcher at Tsinghua University collaborating with Professor Jian-Min Zhang from 2021 to 2024. Now I am a postdoctoral researcher at Northwestern University working with Professor Zdeněk P. Bažant on fracture mechanics and CHM modeling to explore the feasibility of mineral carbon sequestration.
+I work on computational geomechanics focused on the coupled hydro-chemo-mechanical processes in subsurface porous rocks. I obtained my BEng Degree and PhD Degree in Hydraulic Structural Engineering from Hohai University, Nanjing, China, in June 2017 and December 2023, respectively, under the supervision of Professors Zhongru Wu and Dongjian Zheng. I also received a 2-year Joint PhD training at Columbia University, USA, from 2019 to 2021, under the supervision of Professor Haim Waisman. Now, I am working as a Post-Doctoral Associate at New York University-Abu Dhabi. My research interests focus on advanced modeling of coupled fracture/damage of geomechanical materials when subjected to a range of multiphysical loading regimes, including hydraulic, thermal, and chemical processes. The direct applications of this research will be aimed at enhanced modeling of hydraulic fracturing and carbon sequestration.
 </p>
 
 <p align="justify"> 
-I will be joining the Department of Civil Engineering at the University of Hong Kong in the Spring of 2026, and I am actively seeking Ph.D. students and postdoctoral scholars. Interested candidates can send email to me to discuss about these opportunities.
+I will be joining the Department of Mechanics of Materials at Queen Mary University of London in the fall of 2026, collaborating with Professor Wei Tan. I am looking forward to collaborating with all professionals from both academia and industry.
 </p>  
 
 
