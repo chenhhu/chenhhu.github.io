@@ -11,6 +11,9 @@ main:
   - title: "Profile"
     url: /profile/
 
+  - title: "Research"
+    url: /research/ 
+
   - title: "Publications"
     url: /publications/
 
@@ -18,13 +21,16 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
+
+  - title: "Contact"
+    url: /contact/
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
   
   # - title: "CV"
   #   url: /cv-json/
