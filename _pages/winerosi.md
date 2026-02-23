@@ -18,6 +18,7 @@ This project aims to contribute to a better understanding of these challenges an
 </p>
 
 <b>Focal areas of this MSCA research project:</b>
-* [Constitutive modeling of transversely isotropic rocks](constitutive-modeling)
-* [Poromechanical modeling of coupled solid deformation-fluid flow in shale](poromechanics)
-* [Fracture modeling of rocks with bedding planes](fracture-modeling)
+* [Work package 1](constitutive-modeling)
+* [Work package 2](poromechanics)
+* [Work package 3](fracture-modeling)
+* [Work package 4](fracture-modeling)
