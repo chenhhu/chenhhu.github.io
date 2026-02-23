@@ -19,6 +19,7 @@ redirect_from:
   Tsinghua University, Beijing, CN    
 <br>
 
+---
 ## Research and professional experience
 * <b>Postdoctoral Fellow</b>, 2024/05-present  
   <i>Northwestern University</i>   
