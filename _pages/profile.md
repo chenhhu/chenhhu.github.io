@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
+---
 * <b>Ph.D., Civil and Environmental Engineering</b>, 2018/06-2021/09   
   Stanford University, CA, US    
   Advisor: Professor Ronaldo I. Borja   
@@ -19,7 +20,6 @@ redirect_from:
   Tsinghua University, Beijing, CN    
 <br>
 
----
 ## Research and professional experience
 ---
 * <b>Postdoctoral Fellow</b>, 2024/05-present  
@@ -35,13 +35,16 @@ redirect_from:
 <br>    
   
 ## Fellowships
+---
 * <b>John A. Blume Research Fellowship</b>, Stanford University, 2018, 2019.  
 <br>
 
 ## Academic services
+---
 * <b>Journal reviewer</b>  
   Acta Geotechnica 
 <br>
 
 ## Honors and awards
+---
 * <b>Winner of eBay’s university machine learning competition</b>, 2019.
