@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "MSCA"
-permalink: /msca/
+title: "WINEROSI"
+permalink: /winerosi/
 author_profile: true
 ---
 
