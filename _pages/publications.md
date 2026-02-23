@@ -13,21 +13,18 @@ You can also find my articles on my <a href="{{author.googlescholar}}"> Google S
 <br>
 
 Note: * - corresponding author.  
-
   
 ## Journal papers:
-[5] <b>A Double-yield-surface Plasticity Theory for Transversely Isotropic Rocks</b>  
-<b>Zhao Y.</b>, Borja R.I.\* (2022). <i>Acta Geotechnica</i>, 17(11), 5201-5221.
+[1] <b>On the Strength of Transversely Isotropic Rocks</b>  
+<b>Zhao Y.</b>, Semnani S.J., Yin Q., Borja R.I.\* (2018). <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 42(16), 1917-1934.  
+<br>
 
-[4] <b>Anisotropic Elastoplastic Response of Double-porosity Media</b>  
-<b>Zhao Y.</b>, Borja R.I.\* (2021). <i>Computer Methods in Applied Mechanics and Engineering</i>, 380, 113797.
+## Other papers:
+[1] <b>On the Strength of Transversely Isotropic Rocks</b>  
+<b>Zhao Y.</b>, Semnani S.J., Yin Q., Borja R.I.\* (2018). <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 42(16), 1917-1934.  
+<br>
 
-[3] <b>A Continuum Framework for Coupled Solid Deformation–fluid Flow through Anisotropic Elastoplastic Porous Media</b>  
-<b>Zhao Y.</b>, Borja R.I.\* (2020). <i>Computer Methods in Applied Mechanics and Engineering</i>, 369, 113225.
-
-[2] <b>Cam-Clay Plasticity. Part IX: On the Anisotropy, Heterogeneity, and Viscoplasticity of Shale</b>  
-Borja R.I.\*, Yin Q., <b>Zhao Y.</b> (2020). <i>Computer Methods in Applied Mechanics and Engineering</i>, 360, 112695.
-
+## Under review:
 [1] <b>On the Strength of Transversely Isotropic Rocks</b>  
 <b>Zhao Y.</b>, Semnani S.J., Yin Q., Borja R.I.\* (2018). <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 42(16), 1917-1934.  
 <br>
