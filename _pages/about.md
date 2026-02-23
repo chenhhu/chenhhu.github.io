@@ -17,5 +17,3 @@ I work on computational geomechanics focused on the coupled hydro-chemo-mechanic
 I will be joining the Department of Mechanics of Materials at Queen Mary University of London in the fall of 2026, collaborating with Professor Wei Tan. I am looking forward to collaborating with all professionals from both academia and industry.
 </p>  
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=n&d=QzBRXAUXBXLUmP_DYXsMM4hsZIT1_Xh4zy6aQBiUMYg'></script>
