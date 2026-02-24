@@ -15,8 +15,10 @@ You can also find my articles on my <a href="{{author.googlescholar}}"> Google S
 Note: * - corresponding author.  
   
 ## Journal papers:
-[1] <b>On the Strength of Transversely Isotropic Rocks</b>  
-<b>Zhao Y.</b>, Semnani S.J., Yin Q., Borja R.I.\* (2018). <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 42(16), 1917-1934.  
+[1] <b>Y. Chen</b>, M. Mobasher and H. Waisman\*, Dynamic soil consolidation model using a nonlocal continuum poroelastic damage approach, <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 46(3), 486-528, 2022.  
+<br>
+
+[1] <b>Y. Chen</b>, M. Mobasher and H. Waisman\*, Dynamic soil consolidation model using a nonlocal continuum poroelastic damage approach, <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 46(3), 486-528, 2022.  
 <br>
 
 ## Other papers:
