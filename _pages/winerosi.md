@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "WINEROSI"
 permalink: /winerosi/
 author_profile: true
 ---
