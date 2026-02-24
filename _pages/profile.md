@@ -43,15 +43,19 @@ redirect_from:
   
 ## Fellowships
 ---
-* <b>John A. Blume Research Fellowship</b>, Stanford University, 2018, 2019.  
+* <b>Marie Skłodowska-Curie Postdoctoral Fellowship</b>, European Commission, 2025.
+* <b>Basic scientific research funding of Central universities (B200203059): Hydraulic concrete structure fracture propagation modeling using the continuum damage mechanics</b>, 2020.
+* <b>China Scholarship Council (CSC) funding for a two-year joint PhD project at Columbia University</b>, 2019.
 <br>
 
 ## Academic services
 ---
 * <b>Journal reviewer</b>  
-  Acta Geotechnica 
+  ASCE Journal of Engineering Mechanics
 <br>
 
 ## Honors and awards
 ---
-* <b>Winner of eBay’s university machine learning competition</b>, 2019.
+* <b>The 7th National Outstanding Doctoral Dissertation Award in the China Association of Hydraulic Engineering (Ten doctoral dissertations each year)</b>, 2025.
+* <b>Excellent graduate student of Hohai University</b>, 2020.
+* <b>Outstanding scholarship for doctoral students of Hohai University</b>, 2017-2022.
