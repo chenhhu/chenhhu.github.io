@@ -12,33 +12,32 @@ redirect_from:
 ## Education
 ---
 * <b>Joint Ph.D., Columbia University</b>, New York, USA, 2019/09-2021/09   
-  Department of Civil Engineering & Engineering Mechanics   
+  <i>Department of Civil Engineering & Engineering Mechanics</i>   
   Advisor: Professor Haim Waisman<br>
   Modeling of impact damage and time-dependent fracture response for saturated porous media, Hydraulic fracturing applications (CSC scholarship, two years)
 
 * <b>Ph.D., Hohai University</b>, Nanjing, China, 2017/06-2023/12   
-  College of Water Conservancy & Hydropower Engineering    
+  <i>College of Water Conservancy & Hydropower Engineering</i>    
   Advisors: Professors Zhongru Wu and Dongjian Zheng<br>
   Focus: Dam Safety Monitoring, Damage/Fracture Modeling for Saturated/Unsaturated Porous Media<br>
   Dissertation: "<i>Non-local continuum damage modeling for unsaturated porous media and its numerical application in geomaterials (in Chinese)</i>"    
   
 * <b>B.S., Hohai University</b>, Nanjing, China, 2013/09-2017/06<br>
-  Dayu College (The honor college of Hohai University, Hydropower Engineering excellence class)<br>
+  <i>Dayu College (The honor college of Hohai University, Hydropower Engineering excellence class)</i><br>
   Water Conservancy and Hydropower Engineering
 <br>
 
 ## Research and professional experience
 ---
-* <b>Postdoctoral Fellow</b>, 2024/05-present  
-  <i>Northwestern University</i>   
-  Research topics: Carbon geological sequestration  
-  Advisor: Professor Zdenek Bazant  
+* <b>Post-Doctoral Associate, New York University Abu Dhabi </b>, 2024/07-present  
+  <i>Civil and Urban Engineering Department</i>   
+  Research topics: Enhanced modeling of hydraulic fracturing and carbon sequestration
 
-* <b>Shuimu Postdoctoral Fellow</b>, 2021/12-2024/04  
-  <i>Institute of Geotechnical Engineering in the Department of Hydraulic Engineering, Tsinghua University</i>   
-  Program summary: The Shuimu scholar program is a merit-based postdoctoral program at Tsinghua university  
-  Research topics: Fracture modeling of laminated rocks; Constitutive modeling of marine clay  
-  Advisor: Professor Jian-min Zhang
+* <b>Post-Doctoral Associate, Columbia University</b>, New York, USA, 2024/01-2024/06 (working remotely)
+  <i>Department of Civil Engineering & Engineering Mechanics</i>
+  <i>Center for Sand Hazards and Opportunities in Resilience, Energy, and Sustainability (SHORES)</i>
+  Research topics:  Advancing the constitutive material modeling and numerical algorithms/methods to better predict the time-dependent, nonlinear, multiphysics response, and localized failure behavior of manmade and natural materials.
+  Advisor: Professor Haim Waisman
 <br>    
   
 ## Fellowships
