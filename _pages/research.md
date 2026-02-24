@@ -1,4 +1,4 @@
----
+<img width="913" height="123" alt="image" src="https://github.com/user-attachments/assets/8e7b00cc-a1c8-403e-8f4b-75884b312188" />---
 layout: archive
 title: "Research"
 permalink: /research/
@@ -11,13 +11,10 @@ Broad outline of my research.
 </h6>
 
 <p align="justify">
-My research is to study the underlying physics of solid deformation and fluid flow in subsurface porous rocks under hydraulic, mechanical, and chemical loadings by developing advanced mechanical models and the corresponding computational frameworks, aiming to contribute to the development and safe operation of civil systems for subsurface energy development such as shale gas exploitation and CO<sub>2</sub> sequestration. My Ph.D. research focused on the development of a continuum framework for coupled solid deformation-fluid flow for shale, reflecting the unique properties resulting from shale’s laminated bedding structure and bimodal pore size distributions. In this process, I not only developed novel constitutive models for rocks with inherent anisotropy, but also extended the conventional poromechanical frameworks pioneered by Terzaghi and Biot to account for material anisotropy, plasticity, and double porosity. 
-</p>
-<p align="justify">
-My collaboration with Professor Borja continues after my graduation, and we together analyzed the individual impact of bedding structures on the mechanical responses of shale, and how chemical-reaction-induced solid dissolution influenced the hydromechanical responses of porous rocks as well as the seal integrity of CO<sub>2</sub> sequestration reservoirs. My current postdoctoral research focuses on the fracturing processes in anisotropic rocks, and I’ve already developed a tensile failure criterion for laminated rocks considering influences from both bedding planes and the anisotropic rock matrix. Ongoing works include casting the criterion in boundary-value problem simulation frameworks, and analyzing multi-physics fracturing processes in anisotropic rocks such as hydraulic fracturing and shale gas production, gas leaking in CO<sub>2</sub> storage sites, etc. My career vision is to develop a world-class research group focusing on the multi-phase and multi-physics processes in the subsurface porous media spanning a wide range of spatial scales relevant to emerging challenges on water, energy, and environmental issues. 
+My research is to study the underlying physics of solid deformation and fluid flow in subsurface porous rocks under hydraulic, mechanical, and chemical loadings by developing advanced mechanical models and the corresponding computational frameworks. My collaboration with Professor Waisman continues after my graduation, and we together analyzed how chemical-reaction-induced solid dissolution influenced the hydromechanical responses and fracture propagation of porous geomaterials as well as the seal integrity of CO<sub>2</sub> sequestration reservoirs. My current postdoctoral research focuses on the advanced modeling of coupled fracture and damage in geomechanical materials subjected to a range of multiphysical loading regimes, including hydraulic, thermal, and chemical processes. Ongoing works include involve the development of the theory and implementation of the advanced mechanics and numerical models, as well as constitutive model calibration and validation based on physical experimental data, etc. My career vision is to develop a world-class research group focusing on the multi-phase, multi-scale, and multi-physics processes in the subsurface porous geomaterials spanning a broad geo-engineering application (geo-resources, geo-hazards, and geo-structures).
 </p>
 
 <b>Focal areas of my research:</b>
-* [Constitutive modeling of transversely isotropic rocks](constitutive-modeling)
-* [Poromechanical modeling of coupled solid deformation-fluid flow in shale](poromechanics)
-* [Fracture modeling of rocks with bedding planes](fracture-modeling)
+* [Deformation and failure in solids](solids)
+* [Saturated porous media problems](saturated)
+* [Unsaturated porous media problems](unsaturated)
