@@ -15,7 +15,7 @@ One of my ongoing work is to.
 The ensuing figures demonstrate a benchmark test to validate the implementation.  
 </p>
 
-<img src="/images/PFM_1.PNG"/>  
+<img src="/images/PFM_1.png"/>  
 <h6 align="center">fracture patterns generated with phase-field fracture simulation schemes.  
 </h6>
 
