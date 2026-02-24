@@ -15,6 +15,8 @@ Illustration of the.
 </h6>
 <br>
 
-## Reference:  
+## Reference: 
+\[4\] <b>Y. Chen</b>, R. Ma, H. Gu, B. Wu and H. Waisman\*, Efficient Non-Consistent Arc-length Method for Phase-Field Fracture Problems.<br> 
+\[3\] <b>Y. Chen</b>, P. Boom, Z. Fu, A. Jivkov and H. Waisman\*, Localization in Gradient Damage Models through Degradation of the Damage Driving Force.<br> 
 \[2\] <b>Y. Chen</b>, M. Mobasher, D. Zheng\* and H. Waisman, Energy budget in geomaterials fracture: analysis using non-local ductile damage model, <i>Journal of Rock Mechanics and Geotechnical Engineering</i>, 18(2), 887-912, 2026.<br>
 \[1\] <b>Y. Chen</b>, M. Mobasher, D. Zheng\* and H. Waisman, Thermodynamic framework of non-local continuum damage–plasticity model, <i>International Journal of Rock Mechanics and Mining Sciences</i>, 186:106007, 2025.<br> 
