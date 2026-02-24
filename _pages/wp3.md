@@ -2,7 +2,7 @@
 layout: archive
 title: "Work package 3"
 collection: research
-permalink: /research/wp3/
+permalink: /winerosi/wp3/
 ---
 
 ## Work package 3
