@@ -6,6 +6,7 @@ permalink: /research/saturated/
 ---
 
 ## Saturated porous media problems
+---
 <p align="justify">
 The effective stress concept[1].  
 </p> 
