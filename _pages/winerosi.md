@@ -17,6 +17,11 @@ Importantly, leading-edge erosion is not only a wind energy problem. Similar ero
 This project aims to contribute to a better understanding of these challenges and to support more durable designs, helping to reduce maintenance demand, prevent premature failures, and lower lifecycle costs across multiple industries.
 </p>
 
+<img src="/images/For_profile.png"/>  
+<h6 align="center">
+Broad outline of my research.  
+</h6>
+
 <b>Focal areas of this MSCA research project:</b>
 * [Work package 1](constitutive-modeling)
 * [Work package 2](poromechanics)
