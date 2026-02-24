@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Poromechanical modeling of coupled solid deformation-fluid flow in shale"
+title: "Saturated porous media problems"
 collection: research
-permalink: /research/poromechanics/
+permalink: /research/saturated/
 ---
 
-## Coupled solid deformation-fluid flow in anisotropic elastoplastic media
+## Saturated porous media problems
 <p align="justify">
 The effective stress concept and the poromechanical framework pioneered by Terzaghi and Biot have been widely adopted to illustrate coupled fluid flow and solid deformation in porous rocks, but there were still some links missing for anisotropic and ductile rocks like shale. There hardly exists complete discussions in existing research work on poromechanical formulations that consider material anisotropy, elastoplastic, and grain compressibility, and they are all critical components in quantifying the hydromechanical processes in transversely isotropic rocks. Based on the mixture theory and continuum thermodynamics, I derived a novel mathematical framework for coupled solid deformation and fluid flow with all of the aforementioned factors addressed[1].  
 </p> 
