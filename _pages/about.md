@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <p align="justify"> 
-I work on computational fracture mechanics, focused on the scientific computing and numerical analysis of nonstationary, nonlinear, coupled multi-phase, multi-scale, and multi-physics (3M) systems. I obtained my BEng Degree and PhD Degree in Hydraulic Structural Engineering from Hohai University, Nanjing, China, in June 2017 and December 2023, respectively, under the supervision of Professors Zhongru Wu and Dongjian Zheng. I also received a 2-year Joint PhD training at Columbia University, USA, from 2019 to 2021, under the supervision of Professor Haim Waisman. Now, I am working as a Post-Doctoral Associate at New York University-Abu Dhabi. My research interests focus on advanced modeling of coupled fracture/damage of geomechanical materials when subjected to a range of multiphysical loading regimes, including hydraulic, thermal, and chemical processes. The direct applications of this research will be aimed at enhanced modeling of hydraulic fracturing and carbon sequestration.
+I work on computational fracture mechanics, focused on the <b>scientific computing and numerical analysis of nonstationary, nonlinear, coupled multi-phase, multi-scale, and multi-physics (3M) systems</b>. I obtained my BEng Degree and PhD Degree in Hydraulic Structural Engineering from Hohai University, Nanjing, China, in June 2017 and December 2023, respectively, under the supervision of Professors Zhongru Wu and Dongjian Zheng. I also received a 2-year Joint PhD training at Columbia University, USA, from 2019 to 2021, under the supervision of Professor Haim Waisman. Now, I am working as a Post-Doctoral Associate at New York University-Abu Dhabi. My research interests focus on advanced modeling of coupled fracture/damage of geomechanical materials when subjected to a range of multiphysical loading regimes, including hydraulic, thermal, and chemical processes. The direct applications of this research will be aimed at enhanced modeling of hydraulic fracturing and carbon sequestration.
 </p>
 
 <p align="justify"> 
@@ -19,7 +19,5 @@ I will be joining the Department of Mechanics of Materials at Queen Mary Univers
 
 
 ## Recent News
-[1] <b>Centrifuge Tests on a Soil Plug Removal Method for Suction Caisson During Installation</b>  
-<b>Zhao Y.</b>, Cheng F., Wang R.\*, Zhang J.M. Submitted to <i>Applied Ocean Research</i>, under review.
-
+[1] Big congratulations to Yijun Chen on his <b>Marie Skłodowska-Curie Postdoctoral Fellowship</b> application in 2025!
 
