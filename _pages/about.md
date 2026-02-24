@@ -21,5 +21,5 @@ I will be joining the Department of Mechanics of Materials at Queen Mary Univers
 
 ## Recent News
 ---
-[1] Big congratulations to Yijun Chen on his <b>Marie Skłodowska-Curie Postdoctoral Fellowship</b> application in 2025!
+[1] Big congratulations to Yijun Chen on his <b>Marie Skłodowska-Curie Postdoctoral Fellowship</b> application in 2025! It’s great to see research like this being recognised and supported, and I am really looking forward to working with Professor Wei Tan on it, at Queen Mary University of London.
 
