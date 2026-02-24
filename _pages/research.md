@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<img src="/images/For_profile.jpg"/>  
+<img src="/images/For_profile.png"/>  
 <h6 align="center">
 Broad outline of my research.  
 </h6>
