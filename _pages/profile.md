@@ -13,17 +13,17 @@ redirect_from:
 ---
 * <b>Joint Ph.D., Columbia University</b>, New York, USA, 2019/09-2021/09   
   Department of Civil Engineering & Engineering Mechanics   
-  Advisor: Professors Haim Waisman
+  Advisor: Professor Haim Waisman<br>
   Modeling of impact damage and time-dependent fracture response for saturated porous media, Hydraulic fracturing applications (CSC scholarship, two years)
 
 * <b>Ph.D., Hohai University</b>, Nanjing, China, 2017/06-2023/12   
   College of Water Conservancy & Hydropower Engineering    
-  Advisor: Professors Zhongru Wu and Dongjian Zheng
-  Dam Safety Monitoring, Damage/Fracture Modeling for Saturated/Unsaturated Porous Media
+  Advisors: Professors Zhongru Wu and Dongjian Zheng<br>
+  Focus: Dam Safety Monitoring, Damage/Fracture Modeling for Saturated/Unsaturated Porous Media<br>
   Dissertation: "<i>Non-local continuum damage modeling for unsaturated porous media and its numerical application in geomaterials (in Chinese)</i>"    
   
-* <b>B.S., Hohai University</b>, Nanjing, China, 2013/09-2017/06
-  Dayu College (The honor college of Hohai University, Hydropower Engineering excellence class)
+* <b>B.S., Hohai University</b>, Nanjing, China, 2013/09-2017/06<br>
+  Dayu College (The honor college of Hohai University, Hydropower Engineering excellence class)<br>
   Water Conservancy and Hydropower Engineering
 <br>
 
