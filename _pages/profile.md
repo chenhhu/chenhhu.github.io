@@ -42,9 +42,9 @@ redirect_from:
   
 ## Fellowships
 ---
-* <b>Marie Skłodowska-Curie Postdoctoral Fellowship</b>, European Commission, 2025.
-* <b>Basic scientific research funding of Central universities (B200203059): Hydraulic concrete structure fracture propagation modeling using the continuum damage mechanics</b>, 2020.
-* <b>China Scholarship Council (CSC) funding for a two-year joint PhD project at Columbia University</b>, 2019.
+* Marie Skłodowska-Curie Postdoctoral Fellowship, European Commission, 2025.
+* Basic scientific research funding of Central universities (B200203059): Hydraulic concrete structure fracture propagation modeling using the continuum damage mechanics, 2020.
+* China Scholarship Council (CSC) funding for a two-year joint PhD project at Columbia University, 2019.
 <br>
 
 ## Academic services
@@ -55,6 +55,6 @@ redirect_from:
 
 ## Honors and awards
 ---
-* <b>The 7th National Outstanding Doctoral Dissertation Award in the China Association of Hydraulic Engineering (Ten doctoral dissertations each year)</b>, 2025.
-* <b>Excellent graduate student of Hohai University</b>, 2020.
-* <b>Outstanding scholarship for doctoral students of Hohai University</b>, 2017-2022.
+* The 7th National Outstanding Doctoral Dissertation Award in the China Association of Hydraulic Engineering (Ten doctoral dissertations each year), 2025.
+* Excellent graduate student of Hohai University, 2020.
+* Outstanding scholarship for doctoral students of Hohai University, 2017-2022.
