@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Work package 4"
-collection: research
-permalink: /research/wp4/
+collection: winerosi
+permalink: /winerosi/wp4/
 ---
 
 ## Work package 4
