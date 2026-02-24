@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Deformation and failure in solids"
