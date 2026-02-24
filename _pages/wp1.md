@@ -15,7 +15,8 @@ The proposed framework[2,3].
 </p>
 
 <img src="/images/SP_1.png"/>  
-<h6 align="center">Setup of the consolidation problem in a transversely isotropic medium under a strip load.  
+<h6 align="center">
+Set up of the consolidation problem in a transversely isotropic medium under a strip load.  
 </h6>
 
 ## Reference:
