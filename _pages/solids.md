@@ -9,16 +9,30 @@ permalink: /research/solids/
 <p align="justify">
 For deformation and failure in solids, we develop the thermodynamic framework of non-local continuum damage–plasticity model[1]. Then, we investigated the energy budget balance[2]. 
 </p>
-<img src="/images/DYS_1.jpg"/>  
+<img src="/images/DYS_1.png"/>  
 <h6 align="center">
 Illustration of the.  
 </h6>
 <br>
 
 ## Improved gradient damage model
+<p align="justify">
+For deformation and failure in solids, we develop the thermodynamic framework of non-local continuum damage–plasticity model[1]. Then, we investigated the energy budget balance[2]. 
+</p>
+<img src="/images/DYS_2.png"/>  
+<h6 align="center">
+Illustration of the.  
+</h6>
 <br>
 
 ## Arc-length algorithm
+<p align="justify">
+For deformation and failure in solids, we develop the thermodynamic framework of non-local continuum damage–plasticity model[1]. Then, we investigated the energy budget balance[2]. 
+</p>
+<img src="/images/DYS_3.png"/>  
+<h6 align="center">
+Illustration of the.  
+</h6>
 <br>
 
 ## Reference: 
