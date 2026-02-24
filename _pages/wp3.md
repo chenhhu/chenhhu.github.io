@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Work package 3"
-collection: research
+collection: winerosi
 permalink: /winerosi/wp3/
 ---
 
