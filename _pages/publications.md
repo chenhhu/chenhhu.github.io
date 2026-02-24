@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
 ## Journal papers:
 ---
 [5] <b>Y. Chen</b>, M. Mobasher, D. Zheng\* and H. Waisman, Energy budget in geomaterials fracture: analysis using non-local ductile damage model, <i>Journal of Rock Mechanics and Geotechnical Engineering</i>, 18(2), 887-912, 2026.<br>
