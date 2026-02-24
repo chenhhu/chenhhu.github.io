@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Computational Fracture Mechanics"
+title                    : "Yijun Chen"
 title_separator          : "-"
-name                     : &name "Yijun Chen"
-description              : &description "Chen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : "Yijun Chen"
+description              : "Computational Fracture Mechanics"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://chenhhu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
