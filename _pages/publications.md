@@ -11,10 +11,10 @@ author_profile: true
 ## Journal papers:
 ---
 [5] <b>Y. Chen</b>, M. Mobasher, D. Zheng\* and H. Waisman, <a href="https://doi.org/10.1016/j.jrmge.2025.03.019" target="_blank">Energy budget in geomaterials fracture: analysis using non-local ductile damage model</a>, <i>Journal of Rock Mechanics and Geotechnical Engineering</i>, 18(2), 887-912, 2026.<br>
-[4] <b>Y. Chen</b>, M. Mobasher, D. Zheng\* and H. Waisman, Thermodynamic framework of non-local continuum damage–plasticity model, <i>International Journal of Rock Mechanics and Mining Sciences</i>, 186:106007, 2025.<br> 
-[3] <b>Y. Chen</b>, M. Mobasher, T. You and H. Waisman\*, Non-local continuum damage model for poro-viscoelastic porous media, <i>International Journal of Rock Mechanics and Mining Sciences</i>, 159:105212, 2022.<br> 
-[2] <b>Y. Chen</b>, M. Mobasher, C. Gu, D. Zheng and H. Waisman\*, Thermodynamically consistent non-local damage formulation for fluid-driven fracture in poro-viscoelastic media, <i>Acta Geotechnica</i>, 17(11), 5321-5350, 2022.<br>
-[1] <b>Y. Chen</b>, M. Mobasher and H. Waisman\*, Dynamic soil consolidation model using a nonlocal continuum poroelastic damage approach, <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 46(3), 486-528, 2022. 
+[4] <b>Y. Chen</b>, M. Mobasher, D. Zheng\* and H. Waisman, <a href="https://doi.org/10.1016/j.ijrmms.2024.106007" target="_blank">Thermodynamic framework of non-local continuum damage–plasticity model</a>, <i>International Journal of Rock Mechanics and Mining Sciences</i>, 186:106007, 2025.<br> 
+[3] <b>Y. Chen</b>, M. Mobasher, T. You and H. Waisman\*, <a href="https://doi.org/10.1016/j.ijrmms.2022.105212" target="_blank">Non-local continuum damage model for poro-viscoelastic porous media</a>, <i>International Journal of Rock Mechanics and Mining Sciences</i>, 159:105212, 2022.<br> 
+[2] <b>Y. Chen</b>, M. Mobasher, C. Gu, D. Zheng and H. Waisman\*, <a href="https://doi.org/10.1007/s11440-022-01557-x" target="_blank">Thermodynamically consistent non-local damage formulation for fluid-driven fracture in poro-viscoelastic media</a>, <i>Acta Geotechnica</i>, 17(11), 5321-5350, 2022.<br>
+[1] <b>Y. Chen</b>, M. Mobasher and H. Waisman\*, <a href="https://doi.org/10.1002/nag.3309" target="_blank">Dynamic soil consolidation model using a nonlocal continuum poroelastic damage approach</a>, <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 46(3), 486-528, 2022. 
 <br>
 
 ## Other papers:
