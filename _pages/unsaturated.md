@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Fracture modeling of rocks with bedding planes"
+title: "Unsaturated porous media problems"
 collection: research
-permalink: /research/fracture-modeling/
+permalink: /research/unsaturated/
 ---
 
-## Phase-field modeling of tensile fracturing processes in transversely isotropic rocks 
+## Unsaturated porous media problems
 <p align="justify">
 One of my ongoing work is to cast the dual mechanism failure criterion into the phase-field fracture modeling framework and develop a computational tool for boundary-value problem simulations that involve tensile failure of transversely isotropic rocks[2]. By assigning each failure mechanism a distinct phase-field variable, we can describe failure through rock matrix or along weak bedding planes separately.  
 </p>
