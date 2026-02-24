@@ -4,12 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
-{% endif %}
-
-You can also find my articles on my <a href="{{author.googlescholar}}"> Google Scholar</a> or <a href="{{author.researchgate}}"> ResearchGate</a> profile.  Note: * - corresponding author.  
-  
 ## Journal papers:
 ---
 [5] <b>Y. Chen</b>, M. Mobasher, D. Zheng\* and H. Waisman, Energy budget in geomaterials fracture: analysis using non-local ductile damage model, <i>Journal of Rock Mechanics and Geotechnical Engineering</i>, 18(2), 887-912, 2026.<br>
@@ -43,3 +37,6 @@ You can also find my articles on my <a href="{{author.googlescholar}}"> Google S
 [3] M. Mobasher, <b>Y. Chen</b>, and H. Waisman, Numerical Modeling of Coupled Non-Local Damage and Transport in Elastic and Viscoelastic Porous Geological Media, <i>AGU Fall Meeting 2021</i>, New Orleans, LA, USA.<br> 
 [2] X, Wang, L. Gong, W. Song, <b>Y. Chen</b>, C. Wang and J. Yao,  Conductivity calculation of fracture filled with expandable particles, <i>The 8th asian symposium on computational heat transfer and fluid flow</i>, Qingdao, China.  (Best paper award)<br> 
 [1] <b>Y. Chen</b>, M. Mobasher and H. Waisman, Dynamic analysis of soil consolidation using a non-local continuum poroelastic damage approach, <i>Engineering Mechanics Institute Conference 2021 and Probabilistic Mechanics & Reliability Conference</i>, New York, NY, USA.
+<br>
+
+You can also find my articles on my <a href="{{author.googlescholar}}"> Google Scholar</a> or <a href="{{author.researchgate}}"> ResearchGate</a> profile.  Note: * - corresponding author.  
