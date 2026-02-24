@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Substitute lecturer:
+## Lecturer:
 ---
 * <b>CEE101C: Geotechnical Engineering</b> (undergraduate-level), Fall 2018  
   <i>Department of Civil and Environmental Engineering, Columbuia University</i>  
