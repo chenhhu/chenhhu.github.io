@@ -18,3 +18,5 @@ My research is to study the underlying physics of solid deformation and fluid fl
 * [Deformation and failure in solids](solids)
 * [Saturated porous media problems](saturated)
 * [Unsaturated porous media problems](unsaturated)
+* [Advanced Multiphysics coupling problems](multiphysics)
+* [Advanced Multiscale coupling problems](multiscale)
