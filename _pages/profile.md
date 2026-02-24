@@ -33,10 +33,10 @@ redirect_from:
   <i>Civil and Urban Engineering Department</i>   
   Research topics: Enhanced modeling of hydraulic fracturing and carbon sequestration
 
-* <b>Post-Doctoral Associate, Columbia University</b>, New York, USA, 2024/01-2024/06 (working remotely)
-  <i>Department of Civil Engineering & Engineering Mechanics</i>
-  <i>Center for Sand Hazards and Opportunities in Resilience, Energy, and Sustainability (SHORES)</i>
-  Research topics:  Advancing the constitutive material modeling and numerical algorithms/methods to better predict the time-dependent, nonlinear, multiphysics response, and localized failure behavior of manmade and natural materials.
+* <b>Post-Doctoral Associate, Columbia University</b>, New York, USA, 2024/01-2024/06 (working remotely)<br>
+  <i>Department of Civil Engineering & Engineering Mechanics</i><br>
+  <i>Center for Sand Hazards and Opportunities in Resilience, Energy, and Sustainability (SHORES)</i><br>
+  Research topics:  Advancing the constitutive material modeling and numerical algorithms/methods to better predict the time-dependent, nonlinear, multiphysics response, and localized failure behavior of manmade and natural materials.<br>
   Advisor: Professor Haim Waisman
 <br>    
   
